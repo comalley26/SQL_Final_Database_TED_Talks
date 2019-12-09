@@ -5,7 +5,7 @@ This repository contains all the final materials from our Final Project in SQL a
 Our group decided to focus on the TED Talks dataset found on Kaggle.com. The link to the original dataset can be found here:
 https://www.kaggle.com/rounakbanik/ted-talks
 
-The scope of our project is to help a large research organization/university understand the factors that are related to view counts of '
+The scope of our project is to help a large research organization/university understand the factors that are related to view counts of
 online learning videos.
 
 Our group aims to understand how the client can maximize views for their own online learning videos that will increase their reputation
