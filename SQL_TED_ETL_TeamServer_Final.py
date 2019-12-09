@@ -291,7 +291,7 @@ from sqlalchemy import create_engine
 
 
 # Pass the connection string to a variable, conn_url
-conn_url = 'postgresql://postgres:64ddswmi@f19server.apan5310.com:50202/ted_test'
+conn_url = 'postgresql://postgres:64ddswmi@f19server.apan5310.com:50202/ted_talks'
 
 # Create an engine that connects to PostgreSQL server
 engine = create_engine(conn_url)
